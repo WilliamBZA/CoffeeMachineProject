@@ -1,5 +1,4 @@
 # Coffee Machine Project
-====================
 
 An exploration of design pattern implementations in various languages.
 
@@ -33,9 +32,9 @@ Lattes: Foam and steam milk to 75 degrees (C). The ratio is worked out as 50% co
 
 Espressos: We have all had a foul espresso, right? There are lots of reasons for this. The No.1 reason being an unfavourable coffee bean being utilized. If you like espressos you are most likely a lover of all things coffee and understand what makes a good coffee bean. So with this in mind, to make a good espresso coffee you should follow these instructions: 
 
-• Finely grind the coffee beans 
-• You must pack the espresso down firmly 
-• You must employ a high pressure coffee maker or stove top model 
-• You must not try to make too much coffee at once 
-• You need to see the crème floating on the top of the coffee shot, which is a golden-brown foam 
-• You need to use an appropriate espresso cup to keep the coffee warm
+- Finely grind the coffee beans 
+- You must pack the espresso down firmly 
+- You must employ a high pressure coffee maker or stove top model 
+- You must not try to make too much coffee at once 
+- You need to see the crème floating on the top of the coffee shot, which is a golden-brown foam 
+- You need to use an appropriate espresso cup to keep the coffee warm
